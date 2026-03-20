@@ -14,7 +14,7 @@
 ## 🧱 System Architecture
 
 <p align="center">
-  <img src="../../project/mesfrontend/docs/shop_sys_arch.png" width="800"/>
+  <img src="docs/shop_sys_arch.png"  width="800"/>
 </p>
 
 * Shop: 주문 및 결제 처리
@@ -28,7 +28,7 @@
 ## 🔄 Core Flow
 
 <p align="center">
-  <img src="../../project/mesfrontend/docs/shop_flow_dg.png" width="800"/>
+  <img src="docs/shop_flow_dg.png" width="800"/>
 </p>
 
 ### 📌 End-to-End 흐름
@@ -47,7 +47,7 @@
 ## 🗂️ ERD (Entity Relationship Diagram)
 
 <p align="center">
-  <img src="../../project/mesfrontend/docs/erp_erd.png" width="800"/>
+  <img src="docs/erp_erd.png" width="800"/>
 </p>
 
 ### 📌 핵심 구조
